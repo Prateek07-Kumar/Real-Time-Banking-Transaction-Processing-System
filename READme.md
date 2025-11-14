@@ -16,7 +16,7 @@ A high-performance, real-time transaction processing system that ingests data fr
 - [File Structure](#file-structure)
 - [Troubleshooting](#troubleshooting)
 - [Performance](#performance)
-
+  
 ## 🎯 Overview
 
 This system implements two concurrent mechanisms:
